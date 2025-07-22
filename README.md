@@ -11,7 +11,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:tarekchadi88@gmail.com)
 [![Discord](https://img.shields.io/badge/-bz2-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/724485906291097651)
 
-### 💻 Languages and Tools:
+### 💻 Languages :
 <p align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="ts" width="40" height="40"/>
