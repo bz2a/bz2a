@@ -5,7 +5,7 @@
 
 ### 🔗 Contact me:
 [![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:tarekchadi88@gmail.com)
-[![Discord](https://img.shields.io/badge/-YouNes%230001-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/724485906291097651)
+[![Discord](https://img.shields.io/badge/-bz2-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com/users/724485906291097651)
 
 ### 💻 Languages and Tools:
 <p align="left">
