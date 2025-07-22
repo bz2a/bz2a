@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yacine Charrak</h1>
-<h3 align="center">A passionate Front-End Developer & JavaScript/TypeScript Enthusiast</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Front-end+Developer;TypeScript+Lover;Always+learning;Building+clean+UIs&center=true&width=500&height=40" />
+</p>
+
 
 ---
 
