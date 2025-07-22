@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yacine Charrak</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Front-end+Developer;TypeScript+Lover;Always+learning;Building+clean+UIs&center=true&width=500&height=40" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=JavaScript;TypeScript;HTML;CSS;NodeJS;MongoDB&center=true&width=500&height=40" />
+
 </p>
 
 
