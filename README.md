@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm aka YouNes</h1>
+<h1 align="center">Hi 👋, I'm Yacine Charrak</h1>
 <h3 align="center">A passionate Front-End Developer & JavaScript/TypeScript Enthusiast</h3>
 
 ---
 
 ### 🔗 Contact me:
-[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:youremail@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-red?style=flat&logo=gmail&logoColor=white)](mailto:tarekchadi88@gmail.com)
 
 ### 💻 Languages and Tools:
 <p align="left">
@@ -21,10 +21,10 @@
 
 ### 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bz2a&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bz2a&layout=compact)
 
 ---
 
-![Snake animation](https://github.com/YourUsername/YourUsername/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/bz2a/bz2a/blob/output/github-contribution-grid-snake.svg)
 
