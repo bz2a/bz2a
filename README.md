@@ -23,9 +23,4 @@
 ### 📊 GitHub Stats:
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bz2a&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bz2a&layout=compact)
-
----
-
-![Snake animation](https://github.com/bz2a/bz2a/blob/output/github-contribution-grid-snake.svg)
 
